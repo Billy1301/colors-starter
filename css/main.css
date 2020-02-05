@@ -73,11 +73,17 @@ footer {
 
   #column-3 {
     background-color: blue;
+      width: 100%;
   }
 
   footer {
     background-color: crimson;
+      
   }
+    
+    .col-3 {
+        width: 50%;
+    }
   
 }
 
@@ -89,19 +95,27 @@ footer {
   }
 
   #column-1 {
+    
     background-color: darkmagenta;
   }
 
   #column-2 {
+    
     background-color: darkorchid;
   }
 
   #column-3 {
+      
     background-color: firebrick;
+      width: 33.33%;
   }
 
   footer {
     background-color: forestgreen;
   }
+    
+    .col-3 {
+        width: 33.33%;
+    }
    
 }
